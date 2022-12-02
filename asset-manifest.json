@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/winssoft/static/css/main.08ca7eda.css",
-    "main.js": "/winssoft/static/js/main.24778cd2.js",
-    "index.html": "/winssoft/index.html",
-    "main.08ca7eda.css.map": "/winssoft/static/css/main.08ca7eda.css.map",
-    "main.24778cd2.js.map": "/winssoft/static/js/main.24778cd2.js.map"
+    "main.css": "/winssoftv2/static/css/main.08ca7eda.css",
+    "main.js": "/winssoftv2/static/js/main.24778cd2.js",
+    "index.html": "/winssoftv2/index.html",
+    "main.08ca7eda.css.map": "/winssoftv2/static/css/main.08ca7eda.css.map",
+    "main.24778cd2.js.map": "/winssoftv2/static/js/main.24778cd2.js.map"
   },
   "entrypoints": [
     "static/css/main.08ca7eda.css",
