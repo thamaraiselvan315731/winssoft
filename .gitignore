@@ -4,9 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/.historys
 # testing
 /coverage
+
+
 
 # production
 /build
